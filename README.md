@@ -5,8 +5,8 @@ This repository contains the supplementary data and materials for our paper titl
 
 This study synthesizes secondary literature and research agendas to map the landscape of Generative AI (GenAI) in the field of Information Systems, focusing on identified:
 1. **[Benefits](benefits.md)**
-2. **[Challenges and Limitations](challenges.html)**
-3. **[Research Gaps and Future Research Directions](future_research.html)**
+2. **[Challenges and Limitations](challenges.md)**
+3. **[Research Gaps and Future Research Directions](future_research.md)**
 
 The materials provided here are intended to support the transparency and reproducibility of our work.
    
