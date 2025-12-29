@@ -10,6 +10,30 @@ This study synthesizes secondary literature and research agendas to map the land
 
 The materials provided here are intended to support the transparency and reproducibility of our work.
    
+## Author Contributions – Writing
+
+| Section | Author(s) |
+| :--- | :--- |
+| **Abstract** | Adam Przybyłek |
+| **Introduction** | Alberto Silva |
+| **Background** | Boris Delibašić, Jorge Melegati |
+| **Related Work** | Kai-Kristian Kemell |
+| **Method** | Anh Nguyen-Duc, Adam Przybyłek |
+| **Results** | |
+| &nbsp;&nbsp;&nbsp;&nbsp;Bibliometrics of Qualified Sources | Bartosz Marcinkowski |
+| &nbsp;&nbsp;&nbsp;&nbsp;Overview of Themes and Categories | |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Benefits | Jacinto Estima, Beata Zielosko |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Challenges and Limitations | Yen Ying Ng, Adam Przybyłek |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research Gaps and Future Research Directions | Aleksander Jarzębowicz, Jakub Swacha |
+| **Findings** | |
+| &nbsp;&nbsp;&nbsp;&nbsp;Benefits | Jacinto Estima, Beata Zielosko |
+| &nbsp;&nbsp;&nbsp;&nbsp;Challenges and Limitations | Yen Ying Ng, Adam Przybyłek |
+| &nbsp;&nbsp;&nbsp;&nbsp;Future Research Directions | Aleksander Jarzębowicz, Jakub Swacha |
+| **Discussion** | Noel Carroll |
+| **Future Research Agenda** | Adam Przybyłek |
+| **Threats to Validity** | Adam Przybyłek |
+| **Conclusions** | |
+
 ## License
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
