@@ -34,6 +34,23 @@ The materials provided here are intended to support the transparency and reprodu
 | **Threats to Validity** | Adam Przybyłek |
 | **Conclusions** | |
 
+| Role | Contributor(s) |
+| :--- | :--- |
+| Conceptualization | Aleksander Jarzębowicz, Adam Przybyłek |
+| Methodology | Jacinto Estima (search, screening), Aleksander Jarzębowicz, Adam Przybyłek |
+| Software | ? (scripts for visualization)? |
+| Validation | |
+| Formal analysis | NA |
+| Investigation | Jacinto Estima, Aleksander Jarzębowicz, Yen Ying Ng, Adam Przybyłek, Jakub Swacha, Beata Zielosko |
+| Resources | NA |
+| Data curation | Jacinto Estima, Aleksander Jarzębowicz, Yen Ying Ng, Adam Przybyłek, Jakub Swacha, Beata Zielosko |
+| Writing - Original Draft | see Table 1|
+| Writing - Review & Editing | |
+| Visualization | Bartosz Marcinkowski, Adam Przybyłek, Beata Zielosko |
+| Supervision | |
+| Project administration | Aleksander Jarzębowicz, Adam Przybyłek |
+| Funding acquisition | NA |
+
 ## License
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
