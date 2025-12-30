@@ -34,6 +34,8 @@ The materials provided here are intended to support the transparency and reprodu
 | **Threats to Validity** | Adam Przybyłek |
 | **Conclusions** | |
 
+## Contributions according to CRediT roles
+
 | Role | Contributor(s) |
 | :--- | :--- |
 | Conceptualization | Aleksander Jarzębowicz, Adam Przybyłek |
