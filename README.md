@@ -15,13 +15,14 @@ The materials provided here are intended to support the transparency and reprodu
 | Section | Author(s) |
 | :--- | :--- |
 | **Abstract** | Adam Przybyłek |
-| **Introduction** | Alberto Silva |
+| **Introduction** | Alberto Silva, Viktoria Stray |
 | **Background** | Boris Delibašić, Jorge Melegati |
 | **Related Work** | Kai-Kristian Kemell |
-| **Method** | Anh Nguyen-Duc, Adam Przybyłek |
+| **Method** | Anh Nguyen-Duc, Lech Madeyski, Adam Przybyłek |
 | **Results** | |
 | &nbsp;&nbsp;&nbsp;&nbsp;Bibliometrics of Qualified Sources | Bartosz Marcinkowski |
-| &nbsp;&nbsp;&nbsp;&nbsp;Overview of Themes and Categories | |
+| &nbsp;&nbsp;&nbsp;&nbsp;Quality Assessment Results | Bartosz Marcinkowski |
+| &nbsp;&nbsp;&nbsp;&nbsp;Overview of Themes and Categories | Lech Madeyski |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Benefits | Jacinto Estima, Beata Zielosko |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Challenges and Limitations | Yen Ying Ng, Adam Przybyłek |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research Gaps and Future Research Directions | Aleksander Jarzębowicz, Jakub Swacha |
@@ -32,14 +33,14 @@ The materials provided here are intended to support the transparency and reprodu
 | **Discussion** | Noel Carroll |
 | **Future Research Agenda** | Adam Przybyłek |
 | **Threats to Validity** | Adam Przybyłek |
-| **Conclusions** | |
+| **Conclusions** | Viktoria Stray |
 
 ## Contributions according to CRediT roles
 
 | Role | Contributor(s) |
 | :--- | :--- |
 | Conceptualization | Aleksander Jarzębowicz, Adam Przybyłek |
-| Methodology | Jacinto Estima (search, screening), Aleksander Jarzębowicz, Adam Przybyłek |
+| Methodology | Jacinto Estima (search, screening), Aleksander Jarzębowicz, Lech Madeyski, Adam Przybyłek |
 | Software | ? (scripts for visualization)? |
 | Validation | |
 | Formal analysis | NA |
@@ -47,8 +48,8 @@ The materials provided here are intended to support the transparency and reprodu
 | Resources | NA |
 | Data curation | Jacinto Estima, Aleksander Jarzębowicz, Yen Ying Ng, Adam Przybyłek, Jakub Swacha, Beata Zielosko |
 | Writing - Original Draft | see Table 1|
-| Writing - Review & Editing | |
-| Visualization | Bartosz Marcinkowski, Adam Przybyłek, Beata Zielosko |
+| Writing - Review & Editing | Lech Madeyski, Alberto Silva, Viktoria Stray |
+| Visualization | Bartosz Marcinkowski, Beata Zielosko |
 | Supervision | |
 | Project administration | Aleksander Jarzębowicz, Adam Przybyłek |
 | Funding acquisition | NA |
