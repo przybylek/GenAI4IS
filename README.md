@@ -21,8 +21,8 @@ The materials provided here are intended to support the transparency and reprodu
 | **Method** | Anh Nguyen-Duc, Lech Madeyski, Adam Przybyłek |
 | **Results** | |
 | &nbsp;&nbsp;&nbsp;&nbsp;Bibliometrics of Qualified Sources | Bartosz Marcinkowski |
-| &nbsp;&nbsp;&nbsp;&nbsp;Quality Assessment Results | Bartosz Marcinkowski |
-| &nbsp;&nbsp;&nbsp;&nbsp;Overview of Themes and Categories | Lech Madeyski |
+| &nbsp;&nbsp;&nbsp;&nbsp;Quality Assessment Results | Lech Madeyski |
+| &nbsp;&nbsp;&nbsp;&nbsp;Overview of Themes and Categories | |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Benefits | Jacinto Estima, Beata Zielosko |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Challenges and Limitations | Yen Ying Ng, Adam Przybyłek |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research Gaps and Future Research Directions | Aleksander Jarzębowicz, Jakub Swacha |
