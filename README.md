@@ -16,7 +16,9 @@ The materials provided here are intended to support the transparency and reprodu
 | :--- | :--- |
 | **Abstract** | Adam Przybyłek |
 | **Introduction** | Alberto Silva, Viktoria Stray |
-| **Background** | Boris Delibašić, Jorge Melegati |
+| **Background** | |
+| &nbsp;&nbsp;&nbsp;&nbsp;Generative AI | Boris Delibašić, Jorge Melegati |
+| &nbsp;&nbsp;&nbsp;&nbsp;Information Systems Perspective | Netta Iivari |
 | **Related Work** | Kai-Kristian Kemell |
 | **Method** | Anh Nguyen-Duc, Lech Madeyski, Adam Przybyłek |
 | **Results** | |
@@ -41,7 +43,7 @@ The materials provided here are intended to support the transparency and reprodu
 | :--- | :--- |
 | Conceptualization | Aleksander Jarzębowicz, Adam Przybyłek |
 | Methodology | Jacinto Estima (search, screening), Aleksander Jarzębowicz, Lech Madeyski, Adam Przybyłek |
-| Software | ? (scripts for visualization)? |
+| Software | Lech Madeyski, Adam Przybyłek |
 | Validation | |
 | Formal analysis | NA |
 | Investigation | Jacinto Estima, Aleksander Jarzębowicz, Yen Ying Ng, Adam Przybyłek, Jakub Swacha, Beata Zielosko |
