@@ -1,7 +1,7 @@
 # Supplementary Materials
 This repository contains the supplementary data and materials for our paper titled:
 
-*The Landscape of Generative AI in Information Systems: A Systematic Literature Review of Secondary Studies and Research Agendas*
+*The Landscape of Generative AI in Information Systems: A Synthesis of Secondary Reviews and Research Agendas*
 
 This study synthesizes secondary literature and research agendas to map the landscape of Generative AI (GenAI) in the field of Information Systems, focusing on identified:
 1. **[Benefits](benefits.md)**
@@ -23,7 +23,6 @@ The materials provided here are intended to support the transparency and reprodu
 | **Method** | Anh Nguyen-Duc, Lech Madeyski, Adam Przybyłek |
 | **Results** | |
 | &nbsp;&nbsp;&nbsp;&nbsp;Bibliometrics of Qualified Sources | Bartosz Marcinkowski |
-| &nbsp;&nbsp;&nbsp;&nbsp;Quality Assessment Results | Lech Madeyski |
 | &nbsp;&nbsp;&nbsp;&nbsp;Overview of Themes and Categories | |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Benefits | Jacinto Estima, Beata Zielosko |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Challenges and Limitations | Yen Ying Ng, Adam Przybyłek |
@@ -42,7 +41,7 @@ The materials provided here are intended to support the transparency and reprodu
 | Role | Contributor(s) |
 | :--- | :--- |
 | Conceptualization | Aleksander Jarzębowicz, Adam Przybyłek |
-| Methodology | Jacinto Estima (search, screening), Aleksander Jarzębowicz, Lech Madeyski, Adam Przybyłek |
+| Methodology | Jacinto Estima, Aleksander Jarzębowicz, Lech Madeyski, Adam Przybyłek |
 | Software | Lech Madeyski, Adam Przybyłek |
 | Validation | |
 | Formal analysis | NA |
@@ -50,7 +49,7 @@ The materials provided here are intended to support the transparency and reprodu
 | Resources | NA |
 | Data curation | Jacinto Estima, Aleksander Jarzębowicz, Yen Ying Ng, Adam Przybyłek, Jakub Swacha, Beata Zielosko |
 | Writing - Original Draft | see Table 1|
-| Writing - Review & Editing | Lech Madeyski, Alberto Silva, Viktoria Stray |
+| Writing - Review & Editing | Aleksander Jarzębowicz, Lech Madeyski, Adam Przybyłek, Alberto Silva, Viktoria Stray |
 | Visualization | Bartosz Marcinkowski, Beata Zielosko |
 | Supervision | |
 | Project administration | Aleksander Jarzębowicz, Adam Przybyłek |
