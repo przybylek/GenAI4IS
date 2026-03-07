@@ -23,7 +23,7 @@ The materials provided here are intended to support the transparency and reprodu
 *   **[Detailed Quality Assessment Log](./quality_assessment.xlsx)**: The raw assessment worksheets including reviewer justifications for the ratings assigned to each criterion and conflict resolutions.
 
 ### 📈 Analysis Scripts
-*   **[thematic_analysis.py](./code/thematic_analysis.py)**
+*   **[thematic_analysis.py](./code/thematic_analysis.ipynb)**
 *   **[quality_assessment.py](./code/quality_assessment.py)**
   
 ### 📋 Thematic Analysis Codebooks
