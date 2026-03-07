@@ -34,7 +34,7 @@
   *Fixed training cut‑off, sparse/low‑quality data, or inability to recall key information leading to outdated or incomplete responses.*
 - <a id="limited-contextual-awareness"></a>**Limited Contextual Awareness** [8 | roadmap: 3 | SLR: 5]: [![R04](https://img.shields.io/badge/R04-aqua?style=plastic)](#R04), [![R05](https://img.shields.io/badge/R05-aqua?style=plastic)](#R05), [![R06](https://img.shields.io/badge/R06-azure?style=plastic)](#R06), [![S01](https://img.shields.io/badge/S01-gold?style=plastic)](#S01), [![S05](https://img.shields.io/badge/S05-gold?style=plastic)](#S05), [![S07](https://img.shields.io/badge/S07-gold?style=plastic)](#S07), [![S09](https://img.shields.io/badge/S09-azure?style=plastic)](#S09), [![S11](https://img.shields.io/badge/S11-gold?style=plastic)](#S11)  
   *Failure to grasp situational, cultural, or domain‑specific context, leading to outputs that are irrelevant, inappropriate, or superficial.*
-- <a id="performance-inconsistency-&-drift"></a>**Performance Inconsistency & Drift** [5 | roadmap: 1 | SLR: 4]: [![R04](https://img.shields.io/badge/R04-aqua?style=plastic)](#R04), [![S05](https://img.shields.io/badge/S05-gold?style=plastic)](#S05), [![S07](https://img.shields.io/badge/S07-gold?style=plastic)](#S07), [![S09](https://img.shields.io/badge/S09-azure?style=plastic)](#S09), [![S11](https://img.shields.io/badge/S11-gold?style=plastic)](#S11)  
+- <a id="performance-inconsistency-and-drift"></a>**Performance Inconsistency and Drift** [5 | roadmap: 1 | SLR: 4]: [![R04](https://img.shields.io/badge/R04-aqua?style=plastic)](#R04), [![S05](https://img.shields.io/badge/S05-gold?style=plastic)](#S05), [![S07](https://img.shields.io/badge/S07-gold?style=plastic)](#S07), [![S09](https://img.shields.io/badge/S09-azure?style=plastic)](#S09), [![S11](https://img.shields.io/badge/S11-gold?style=plastic)](#S11)  
   *Unpredictable degradation or variability in model performance over time or across different scenarios, necessitating continuous monitoring.*
 - <a id="lack-of-evidence-and-validation"></a>**Lack of Evidence and Validation** [5 | roadmap: 1 | SLR: 4]: [![R06](https://img.shields.io/badge/R06-azure?style=plastic)](#R06), [![S01](https://img.shields.io/badge/S01-gold?style=plastic)](#S01), [![S07](https://img.shields.io/badge/S07-gold?style=plastic)](#S07), [![S08](https://img.shields.io/badge/S08-azure?style=plastic)](#S08), [![S18](https://img.shields.io/badge/S18-azure?style=plastic)](#S18)  
   *Scarcity of empirical studies, domain‑specific benchmarks, or validation.*
@@ -58,9 +58,9 @@
   *Susceptibility to attacks such as prompt‑injection, data‑poisoning, or jailbreaks.*
 - <a id="regulatory-and-legal-gaps"></a>**Regulatory and Legal Gaps** [7 | roadmap: 3 | SLR: 4]: [![R07](https://img.shields.io/badge/R07-azure?style=plastic)](#R07), [![R08](https://img.shields.io/badge/R08-aqua?style=plastic)](#R08), [![R09](https://img.shields.io/badge/R09-gold?style=plastic)](#R09), [![S08](https://img.shields.io/badge/S08-azure?style=plastic)](#S08), [![S09](https://img.shields.io/badge/S09-azure?style=plastic)](#S09), [![S13](https://img.shields.io/badge/S13-azure?style=plastic)](#S13), [![S16](https://img.shields.io/badge/S16-gold?style=plastic)](#S16)  
   *Absence of clear laws, standards or governance frameworks to ensure safe, ethical deployment of GenAI.*
-- <a id="accountability-&-liability-ambiguity"></a>**Accountability & Liability Ambiguity** [4 | roadmap: 1 | SLR: 3]: [![R03](https://img.shields.io/badge/R03-aqua?style=plastic)](#R03), [![S09](https://img.shields.io/badge/S09-azure?style=plastic)](#S09), [![S16](https://img.shields.io/badge/S16-gold?style=plastic)](#S16), [![S17](https://img.shields.io/badge/S17-gold?style=plastic)](#S17)  
+- <a id="accountability-and-liability-ambiguity"></a>**Accountability and Liability Ambiguity** [4 | roadmap: 1 | SLR: 3]: [![R03](https://img.shields.io/badge/R03-aqua?style=plastic)](#R03), [![S09](https://img.shields.io/badge/S09-azure?style=plastic)](#S09), [![S16](https://img.shields.io/badge/S16-gold?style=plastic)](#S16), [![S17](https://img.shields.io/badge/S17-gold?style=plastic)](#S17)  
   *Unclear assignment of responsibility or legal liability when harms arise from AI outputs or decisions.*
-- <a id="copyright-&-ownership-disputes"></a>**Copyright & Ownership Disputes** [7 | roadmap: 3 | SLR: 4]: [![R04](https://img.shields.io/badge/R04-aqua?style=plastic)](#R04), [![R08](https://img.shields.io/badge/R08-aqua?style=plastic)](#R08), [![R10](https://img.shields.io/badge/R10-azure?style=plastic)](#R10), [![S09](https://img.shields.io/badge/S09-azure?style=plastic)](#S09), [![S10](https://img.shields.io/badge/S10-gold?style=plastic)](#S10), [![S12](https://img.shields.io/badge/S12-salmon?style=plastic)](#S12), [![S14](https://img.shields.io/badge/S14-salmon?style=plastic)](#S14)  
+- <a id="copyright-and-ownership-disputes"></a>**Copyright and Ownership Disputes** [7 | roadmap: 3 | SLR: 4]: [![R04](https://img.shields.io/badge/R04-aqua?style=plastic)](#R04), [![R08](https://img.shields.io/badge/R08-aqua?style=plastic)](#R08), [![R10](https://img.shields.io/badge/R10-azure?style=plastic)](#R10), [![S09](https://img.shields.io/badge/S09-azure?style=plastic)](#S09), [![S10](https://img.shields.io/badge/S10-gold?style=plastic)](#S10), [![S12](https://img.shields.io/badge/S12-salmon?style=plastic)](#S12), [![S14](https://img.shields.io/badge/S14-salmon?style=plastic)](#S14)  
   *Challenges related to ownership and rights, including the use of copyrighted material in training data and ambiguity over the legal status of AI-generated content.*
 
 
@@ -95,7 +95,7 @@
 > -privacy concerns (these companies hesitate to use public AI tools because the prompts they submit reveal sensitive information about their work processes and priorities) [*{Data Privacy Violations [C4]}*](#data-privacy-violations)  
 > -"hallucination" and ‘bullshit’ problems [*{Hallucinations and Factual Inaccuracy [C2]}*](#hallucinations-and-factual-inaccuracy)  
 > -Vendor Lock-in: Customizing models through fine-tuning creates dependency on specific AI providers, reducing future flexibility.  
-> -Warranty problem: model suppliers won't provide performance guarantees [*{Accountability & Liability Ambiguity [C4]}*](#accountability-&-liability-ambiguity)  
+> -Warranty problem: model suppliers won't provide performance guarantees [*{Accountability and Liability Ambiguity [C4]}*](#accountability-and-liability-ambiguity)  
 > -Issues in cybersecurity e.g. cyberattack [*{Security Vulnerabilities [C4]}*](#security-vulnerabilities), misinformation [*{Potential for Misuse and Harmful Content [C1]}*](#potential-for-misuse-and-harmful-content), etc.  
 
 ---
@@ -107,11 +107,11 @@
 > - Scalability (e.g., distributed computing resources)   
 > - Deployment (e.g., in various environments and for different devices) [*{Societal and Economic Disparities [C1]}*](#societal-and-economic-disparities)  
 > - Usability (e.g., a user-friendly interface and intent recognition) [*{Limited Contextual Awareness [C2]}*](#limited-contextual-awareness)   
-> - Unexpected deterioration of model performance over time (which highlights the need for continuous model monitoring) [*{Performance Inconsistency & Drift [C2]}*](#performance-inconsistency-&-drift)  
+> - Unexpected deterioration of model performance over time (which highlights the need for continuous model monitoring) [*{Performance Inconsistency and Drift [C2]}*](#performance-inconsistency-and-drift)  
 > - "common limitations  in many generative AI models are that they were trained on historical data with specific cut-off date and thus do not store information beyond or (...) may not remember everything that they saw during training" [*{Outdated or Limited Knowledge [C2]}*](#outdated-or-limited-knowledge)  
 > - Incorrect outputs (including hallucinations) [*{Hallucinations and Factual Inaccuracy [C2]}*](#hallucinations-and-factual-inaccuracy);  
 > - Bias and fairness  (amplifying human biases, replicating toxic language and/or stereotypes) [*{Biases and Discrimination [C1]}*](#biases-and-discrimination);  
-> - Copyright violations (reproduction rights, transformations rights, doubts about who is a legal owner of GenAI generated contents) [*{Copyright & Ownership Disputes [C4]}*](#copyright-&-ownership-disputes);  
+> - Copyright violations (reproduction rights, transformations rights, doubts about who is a legal owner of GenAI generated contents) [*{Copyright and Ownership Disputes [C4]}*](#copyright-and-ownership-disputes);  
 > - Environmental concerns (energy and carbon footprint necessary to train and use GenAI) [*{Environmental Sustainability [C1]}*](#environmental-sustainability).  
 
 ---
@@ -156,11 +156,11 @@
 > (2) customer experience:  
 > -ChatGPT reduces effort to complete a task, but it also reduces social interactions and weaken social bonds [*{Human Autonomy and Skill Devaluation [C1]}*](#human-autonomy-and-skill-devaluation); the initial excitement and interest in ChatGPT as new technology will fade over time; the need to ensure response accuracy   
 > (3) digital services:  
-> -"the potential misuse of copyright issues [*{Copyright & Ownership Disputes [C4]}*](#copyright-&-ownership-disputes), privacy [*{Data Privacy Violations [C4]}*](#data-privacy-violations), accuracy [*{Hallucinations and Factual Inaccuracy [C2]}*](#hallucinations-and-factual-inaccuracy) and authenticity of responses [*{Hallucinations and Factual Inaccuracy [C2]}*](#hallucinations-and-factual-inaccuracy), ethics, inherent biases in data [*{Biases and Discrimination [C1]}*](#biases-and-discrimination), misinformation [*{Potential for Misuse and Harmful Content [C1]}*](#potential-for-misuse-and-harmful-content), and data leaks [*{Data Privacy Violations [C4]}*](#data-privacy-violations)"; "increasing automation will impact jobs, forcing companies to manage employee dissatisfaction and reskill their employees" [*{Societal and Economic Disparities [C1]}*](#societal-and-economic-disparities)  
+> -"the potential misuse of copyright issues [*{Copyright and Ownership Disputes [C4]}*](#copyright-and-ownership-disputes), privacy [*{Data Privacy Violations [C4]}*](#data-privacy-violations), accuracy [*{Hallucinations and Factual Inaccuracy [C2]}*](#hallucinations-and-factual-inaccuracy) and authenticity of responses [*{Hallucinations and Factual Inaccuracy [C2]}*](#hallucinations-and-factual-inaccuracy), ethics, inherent biases in data [*{Biases and Discrimination [C1]}*](#biases-and-discrimination), misinformation [*{Potential for Misuse and Harmful Content [C1]}*](#potential-for-misuse-and-harmful-content), and data leaks [*{Data Privacy Violations [C4]}*](#data-privacy-violations)"; "increasing automation will impact jobs, forcing companies to manage employee dissatisfaction and reskill their employees" [*{Societal and Economic Disparities [C1]}*](#societal-and-economic-disparities)  
 > (4) cost-effective service excellence  
 > -"ethical, fairness [*{Fairness Implementation Challenges [C1]}*](#fairness-implementation-challenges), and privacy risks [*{Data Privacy Violations [C4]}*](#data-privacy-violations)"; "loss of autonomy and dignity, dehumanization, social isolation, and addiction" [*{Human Autonomy and Skill Devaluation [C1]}*](#human-autonomy-and-skill-devaluation)  
 > (5) ethics, security, and corporate digital responsibility  
-> -Bias [*{Biases and Discrimination [C1]}*](#biases-and-discrimination) and accuracy problems [*{Hallucinations and Factual Inaccuracy [C2]}*](#hallucinations-and-factual-inaccuracy) (ChatGPT learns from massive text datasets that contain existing societal biases [*{Biases and Discrimination [C1]}*](#biases-and-discrimination) and hallucination produces wrong outputs [*{Hallucinations and Factual Inaccuracy [C2]}*](#hallucinations-and-factual-inaccuracy)); user privacy [*{Data Privacy Violations [C4]}*](#data-privacy-violations) and intellectual property violations [*{Copyright & Ownership Disputes [C4]}*](#copyright-&-ownership-disputes); ChatGPT can be exploited for malicious purposes [*{Potential for Misuse and Harmful Content [C1]}*](#potential-for-misuse-and-harmful-content); ChatGPT's capabilities and limitations are not transparent [*{Model Opacity (Black-Box Nature) [C3]}*](#model-opacity-(black-box-nature)); "OpenAI should take steps to ensure that ChatGPT is not used to generate harmful content [*{Potential for Misuse and Harmful Content [C1]}*](#potential-for-misuse-and-harmful-content) or access sensitive user data [*{Data Privacy Violations [C4]}*](#data-privacy-violations)"  
+> -Bias [*{Biases and Discrimination [C1]}*](#biases-and-discrimination) and accuracy problems [*{Hallucinations and Factual Inaccuracy [C2]}*](#hallucinations-and-factual-inaccuracy) (ChatGPT learns from massive text datasets that contain existing societal biases [*{Biases and Discrimination [C1]}*](#biases-and-discrimination) and hallucination produces wrong outputs [*{Hallucinations and Factual Inaccuracy [C2]}*](#hallucinations-and-factual-inaccuracy)); user privacy [*{Data Privacy Violations [C4]}*](#data-privacy-violations) and intellectual property violations [*{Copyright and Ownership Disputes [C4]}*](#copyright-and-ownership-disputes); ChatGPT can be exploited for malicious purposes [*{Potential for Misuse and Harmful Content [C1]}*](#potential-for-misuse-and-harmful-content); ChatGPT's capabilities and limitations are not transparent [*{Model Opacity (Black-Box Nature) [C3]}*](#model-opacity-(black-box-nature)); "OpenAI should take steps to ensure that ChatGPT is not used to generate harmful content [*{Potential for Misuse and Harmful Content [C1]}*](#potential-for-misuse-and-harmful-content) or access sensitive user data [*{Data Privacy Violations [C4]}*](#data-privacy-violations)"  
 
 ---
 
@@ -180,7 +180,7 @@
 - ![R10](https://img.shields.io/badge/R10-azure?style=plastic) **<mark>Storey, V. C., Yue, W. T., Zhao, J. L., & Lukyanenko, R. (2025). Generative Artificial Intelligence: Evolving technology, growing societal impact, and opportunities for information systems research. Information Systems Frontiers, 1-22.</mark>** (Data extractor: *Yen*)
 
 
-> -intellectual property rights infringement [*{Copyright & Ownership Disputes [C4]}*](#copyright-&-ownership-disputes)  
+> -intellectual property rights infringement [*{Copyright and Ownership Disputes [C4]}*](#copyright-and-ownership-disputes)  
 > -misuse of deepfake technology for misinformation [*{Potential for Misuse and Harmful Content [C1]}*](#potential-for-misuse-and-harmful-content)  
 > -may emotionally manipulate people [*{Potential for Misuse and Harmful Content [C1]}*](#potential-for-misuse-and-harmful-content)  
 > -hallucination [*{Hallucinations and Factual Inaccuracy [C2]}*](#hallucinations-and-factual-inaccuracy) and built-in biases [*{Biases and Discrimination [C1]}*](#biases-and-discrimination)  
@@ -232,8 +232,8 @@
 
 
 > "The presence of hallucinations or fictitious information [*{Hallucinations and Factual Inaccuracy [C2]}*](#hallucinations-and-factual-inaccuracy) in three of nine studies utilising Chat GPT raises concerns regarding safe implementation in clinical settings."  
-> "[...] while AI can enhance certain aspects of documentation, its reliability is not yet consistent [*{Performance Inconsistency & Drift [C2]}*](#performance-inconsistency-&-drift) across all clinical scenarios. Refinement of these technologies will be required before widespread implementation."  
-> "[...] scepticism remains regarding reliability [*{Performance Inconsistency & Drift [C2]}*](#performance-inconsistency-&-drift) and the potential loss of narrative detail [*{Limited Contextual Awareness [C2]}*](#limited-contextual-awareness) in clinical notes.  
+> "[...] while AI can enhance certain aspects of documentation, its reliability is not yet consistent [*{Performance Inconsistency and Drift [C2]}*](#performance-inconsistency-and-drift) across all clinical scenarios. Refinement of these technologies will be required before widespread implementation."  
+> "[...] scepticism remains regarding reliability [*{Performance Inconsistency and Drift [C2]}*](#performance-inconsistency-and-drift) and the potential loss of narrative detail [*{Limited Contextual Awareness [C2]}*](#limited-contextual-awareness) in clinical notes.  
 
 ---
 
@@ -250,7 +250,7 @@
 - ![S07](https://img.shields.io/badge/S07-gold?style=plastic) **<mark>Ghebrehiwet, I., Zaki, N., Damseh, R., & Mohamad, M. S. (2024). Revolutionizing personalized medicine with generative AI: a systematic review. Artificial Intelligence Review, 57(5), 128.</mark>** (Data extractor: *Jakub*)
 
 
-> Limited generalizability to other diseases, Lack of comprehensive evaluation metrics [*{Lack of Evidence and Validation [C2]}*](#lack-of-evidence-and-validation), Absence of external validation [*{Lack of Evidence and Validation [C2]}*](#lack-of-evidence-and-validation), Complexity and lack of interpretability in generative models [*{Explainability Shortcomings [C3]}*](#explainability-shortcomings), Complex model architecture [*{Model Opacity (Black-Box Nature) [C3]}*](#model-opacity-(black-box-nature)), Dependency on data quality and representativeness [*{Outdated or Limited Knowledge [C2]}*](#outdated-or-limited-knowledge),  Instability in training GANs [*{Performance Inconsistency & Drift [C2]}*](#performance-inconsistency-&-drift),  Assumption of no unobserved confounders [*{Limited Contextual Awareness [C2]}*](#limited-contextual-awareness),  Small real data example size [*{Outdated or Limited Knowledge [C2]}*](#outdated-or-limited-knowledge),  Sparse modeling techniques,  Limitation to single omics data analysis, Disease-specific methodology,  Inadequate consideration of computational resources [*{Environmental Sustainability [C1]}*](#environmental-sustainability),  Focus on single modality (gene expression) [*{Limited Contextual Awareness [C2]}*](#limited-contextual-awareness),  Overfitting issues with discriminative neural networks [*{Performance Inconsistency & Drift [C2]}*](#performance-inconsistency-&-drift),  Need for predictive models with heterogeneous data [*{Lack of Evidence and Validation [C2]}*](#lack-of-evidence-and-validation),  Poor prognosis outcome prediction for multimodal data [*{Hallucinations and Factual Inaccuracy [C2]}*](#hallucinations-and-factual-inaccuracy),  Lack of clinical validation for practical treatment [*{Lack of Evidence and Validation [C2]}*](#lack-of-evidence-and-validation),  Non-interpretable learned representations [*{Explainability Shortcomings [C3]}*](#explainability-shortcomings),  Dependency on parameters like architecture,  Inability to infer causality,  Challenges in generating realistic new data [*{Hallucinations and Factual Inaccuracy [C2]}*](#hallucinations-and-factual-inaccuracy),  Method’s applicability to a broader range of diseases}  
+> Limited generalizability to other diseases, Lack of comprehensive evaluation metrics [*{Lack of Evidence and Validation [C2]}*](#lack-of-evidence-and-validation), Absence of external validation [*{Lack of Evidence and Validation [C2]}*](#lack-of-evidence-and-validation), Complexity and lack of interpretability in generative models [*{Explainability Shortcomings [C3]}*](#explainability-shortcomings), Complex model architecture [*{Model Opacity (Black-Box Nature) [C3]}*](#model-opacity-(black-box-nature)), Dependency on data quality and representativeness [*{Outdated or Limited Knowledge [C2]}*](#outdated-or-limited-knowledge),  Instability in training GANs [*{Performance Inconsistency and Drift [C2]}*](#performance-inconsistency-and-drift),  Assumption of no unobserved confounders [*{Limited Contextual Awareness [C2]}*](#limited-contextual-awareness),  Small real data example size [*{Outdated or Limited Knowledge [C2]}*](#outdated-or-limited-knowledge),  Sparse modeling techniques,  Limitation to single omics data analysis, Disease-specific methodology,  Inadequate consideration of computational resources [*{Environmental Sustainability [C1]}*](#environmental-sustainability),  Focus on single modality (gene expression) [*{Limited Contextual Awareness [C2]}*](#limited-contextual-awareness),  Overfitting issues with discriminative neural networks [*{Performance Inconsistency and Drift [C2]}*](#performance-inconsistency-and-drift),  Need for predictive models with heterogeneous data [*{Lack of Evidence and Validation [C2]}*](#lack-of-evidence-and-validation),  Poor prognosis outcome prediction for multimodal data [*{Hallucinations and Factual Inaccuracy [C2]}*](#hallucinations-and-factual-inaccuracy),  Lack of clinical validation for practical treatment [*{Lack of Evidence and Validation [C2]}*](#lack-of-evidence-and-validation),  Non-interpretable learned representations [*{Explainability Shortcomings [C3]}*](#explainability-shortcomings),  Dependency on parameters like architecture,  Inability to infer causality,  Challenges in generating realistic new data [*{Hallucinations and Factual Inaccuracy [C2]}*](#hallucinations-and-factual-inaccuracy),  Method’s applicability to a broader range of diseases}  
 
 ---
 
@@ -284,10 +284,10 @@
 > - "the “black box” nature of these models [*{Model Opacity (Black-Box Nature) [C3]}*](#model-opacity-(black-box-nature)) often hinders their explainability" [*{Explainability Shortcomings [C3]}*](#explainability-shortcomings)  
 >   
 > Responsibility:  
-> - "the misuse of generative models to spread false or harmful information [*{Potential for Misuse and Harmful Content [C1]}*](#potential-for-misuse-and-harmful-content) brings moral responsibility issues to the forefront [*{Accountability & Liability Ambiguity [C4]}*](#accountability-&-liability-ambiguity), balancing freedom of expression with societal ethics. The potential impact of GenAI systems on vulnerable groups and the broader implications for worldviews and personal values (...)"  
+> - "the misuse of generative models to spread false or harmful information [*{Potential for Misuse and Harmful Content [C1]}*](#potential-for-misuse-and-harmful-content) brings moral responsibility issues to the forefront [*{Accountability and Liability Ambiguity [C4]}*](#accountability-and-liability-ambiguity), balancing freedom of expression with societal ethics. The potential impact of GenAI systems on vulnerable groups and the broader implications for worldviews and personal values (...)"  
 >   
 > Privacy:  
-> - "the significant risks of memorizing and reproducing personally identifiable information, leaking private information [*{Data Privacy Violations [C4]}*](#data-privacy-violations), and posing threats and violations to individual privacy rights and copyright" [*{Copyright & Ownership Disputes [C4]}*](#copyright-&-ownership-disputes)  
+> - "the significant risks of memorizing and reproducing personally identifiable information, leaking private information [*{Data Privacy Violations [C4]}*](#data-privacy-violations), and posing threats and violations to individual privacy rights and copyright" [*{Copyright and Ownership Disputes [C4]}*](#copyright-and-ownership-disputes)  
 > - "Privacy hazards include privacy violations and safety risks, leaking private information, correctly inferring private information, and correctly inferring sensitive information" [*{Data Privacy Violations [C4]}*](#data-privacy-violations)  
 > - "owing to system glitches in ChatGPT, the chat logs of certain users have become accessible to others, and information privacy and security concerns are affecting not only individual users but also large corporations and government agencies" [*{Data Privacy Violations [C4]}*](#data-privacy-violations)  
 >   
@@ -295,7 +295,7 @@
 > - "vulnerability to adversarial behaviors such as jailbreaking (using specific prompts to bypass security measures)" [*{Security Vulnerabilities [C4]}*](#security-vulnerabilities)  
 > - "unauthorized access, corruption, theft, and intentional misuse" [*{Security Vulnerabilities [C4]}*](#security-vulnerabilities)  
 > - "GenAI applications may be misused in ways that are unanticipated by the creators of these systems—for instance, to generate malevolent material, including spam, fraudulent reviews, or even cyberattacks on a large scale" [*{Potential for Misuse and Harmful Content [C1]}*](#potential-for-misuse-and-harmful-content)  
-> - "data poisoning attacks [*{Security Vulnerabilities [C4]}*](#security-vulnerabilities) and the inability to provide uncertainty estimates—can lead to unreliable and potentially harmful outputs" [*{Performance Inconsistency & Drift [C2]}*](#performance-inconsistency-&-drift)  
+> - "data poisoning attacks [*{Security Vulnerabilities [C4]}*](#security-vulnerabilities) and the inability to provide uncertainty estimates—can lead to unreliable and potentially harmful outputs" [*{Performance Inconsistency and Drift [C2]}*](#performance-inconsistency-and-drift)  
 > - "creating deceptive phishing emails and malicious code" [*{Potential for Misuse and Harmful Content [C1]}*](#potential-for-misuse-and-harmful-content)  
 > - "misuse of personal and sensitive data can lead to significant privacy violations" [*{Data Privacy Violations [C4]}*](#data-privacy-violations)  
 > - "the potential for GenAI to produce harmful or inappropriate content, such as toxicity and misinformation" [*{Potential for Misuse and Harmful Content [C1]}*](#potential-for-misuse-and-harmful-content)  
@@ -315,10 +315,10 @@
 > - "the use of ChatGPT in sensitive contexts, especially for vulnerable individuals seeking support or guidance, raises concerns about the appropriateness and ethical implications of the advice given" [*{Limited Contextual Awareness [C2]}*](#limited-contextual-awareness)  
 >   
 > Respect for intellectual property:  
-> - "distinction between original and AI-generated content is blurred" [*{Copyright & Ownership Disputes [C4]}*](#copyright-&-ownership-disputes)  
-> - "GenAI models are often trained on datasets that might fall within regulatory frameworks such as GDPR, which restricts the reuse of data beyond their original collection purpose" [*{Copyright & Ownership Disputes [C4]}*](#copyright-&-ownership-disputes)  
-> - "a tendency to memorize and reproduce personally identifiable information [*{Data Privacy Violations [C4]}*](#data-privacy-violations) and individual images from training data, resulting in not only privacy concerns but also potential copyright violations" [*{Copyright & Ownership Disputes [C4]}*](#copyright-&-ownership-disputes)  
-> - "The profit-oriented ownership of technology such as ChatGPT raises questions about who holds the rights and controls the use of AI-generated content" [*{Copyright & Ownership Disputes [C4]}*](#copyright-&-ownership-disputes)  
+> - "distinction between original and AI-generated content is blurred" [*{Copyright and Ownership Disputes [C4]}*](#copyright-and-ownership-disputes)  
+> - "GenAI models are often trained on datasets that might fall within regulatory frameworks such as GDPR, which restricts the reuse of data beyond their original collection purpose" [*{Copyright and Ownership Disputes [C4]}*](#copyright-and-ownership-disputes)  
+> - "a tendency to memorize and reproduce personally identifiable information [*{Data Privacy Violations [C4]}*](#data-privacy-violations) and individual images from training data, resulting in not only privacy concerns but also potential copyright violations" [*{Copyright and Ownership Disputes [C4]}*](#copyright-and-ownership-disputes)  
+> - "The profit-oriented ownership of technology such as ChatGPT raises questions about who holds the rights and controls the use of AI-generated content" [*{Copyright and Ownership Disputes [C4]}*](#copyright-and-ownership-disputes)  
 >   
 > Truthfulness:  
 > - "risks of false or nonsensical outputs" [*{Hallucinations and Factual Inaccuracy [C2]}*](#hallucinations-and-factual-inaccuracy)  
@@ -326,8 +326,8 @@
 > - "plausible but factually incorrect information, potentially leading to misinformation in sensitive areas, such as healthcare and legal advice" [*{Hallucinations and Factual Inaccuracy [C2]}*](#hallucinations-and-factual-inaccuracy)  
 >   
 > Robustness:  
-> - "LLMs often struggle with uncertainty estimates [*{Performance Inconsistency & Drift [C2]}*](#performance-inconsistency-&-drift) and are susceptible to data poisoning [*{Security Vulnerabilities [C4]}*](#security-vulnerabilities), impacting user trust in their outputs"  
-> - "System failure in LMs can occur because of semantic perturbations, whereby input with different syntax but similar meaning to the training data leads to errors" [*{Performance Inconsistency & Drift [C2]}*](#performance-inconsistency-&-drift)  
+> - "LLMs often struggle with uncertainty estimates [*{Performance Inconsistency and Drift [C2]}*](#performance-inconsistency-and-drift) and are susceptible to data poisoning [*{Security Vulnerabilities [C4]}*](#security-vulnerabilities), impacting user trust in their outputs"  
+> - "System failure in LMs can occur because of semantic perturbations, whereby input with different syntax but similar meaning to the training data leads to errors" [*{Performance Inconsistency and Drift [C2]}*](#performance-inconsistency-and-drift)  
 > - "Data leakage within LMs may lead to vulnerability to attacks, whereby adversaries aim to retrieve confidential information, thereby threatening personal privacy [*{Data Privacy Violations [C4]}*](#data-privacy-violations) and the security of organizations" [*{Security Vulnerabilities [C4]}*](#security-vulnerabilities)  
 > - "Prompt injection involves deliberately inserting specific data into the input of an LM with the aim of causing it to malfunction or fail" [*{Security Vulnerabilities [C4]}*](#security-vulnerabilities)  
 > Recognition of malicious uses:  
@@ -350,7 +350,7 @@
 - ![S10](https://img.shields.io/badge/S10-gold?style=plastic) **<mark>Lareyre, F., Nasr, B., Chaudhuri, A., Di Lorenzo, G., Carlier, M., & Raffort, J. (2023, January). Comprehensive review of natural language processing (NLP) in vascular surgery. In EJVES Vascular Forum (Vol. 60, pp. 57-63). Elsevier.</mark>** (Data extractor: *Yen*)
 
 
-> -Challenges and pitfalls: large amount of domain specific data/knowledge and time required for medical experts to label data in order to train a model [*{Outdated or Limited Knowledge [C2]}*](#outdated-or-limited-knowledge); ethical concerns (output quality and accuracy [*{Hallucinations and Factual Inaccuracy [C2]}*](#hallucinations-and-factual-inaccuracy), academic work generated by AI (risk of plagiarism) [*{Copyright & Ownership Disputes [C4]}*](#copyright-&-ownership-disputes), data privacy [*{Data Privacy Violations [C4]}*](#data-privacy-violations), security [*{Security Vulnerabilities [C4]}*](#security-vulnerabilities)); healthcare organizations need to upgrade their computer systems and infrastructure to provide enough processing power for NLP technology [*{Environmental Sustainability [C1]}*](#environmental-sustainability), while also finding effective ways to make their different software systems and databases communicate and work together properly.  
+> -Challenges and pitfalls: large amount of domain specific data/knowledge and time required for medical experts to label data in order to train a model [*{Outdated or Limited Knowledge [C2]}*](#outdated-or-limited-knowledge); ethical concerns (output quality and accuracy [*{Hallucinations and Factual Inaccuracy [C2]}*](#hallucinations-and-factual-inaccuracy), academic work generated by AI (risk of plagiarism) [*{Copyright and Ownership Disputes [C4]}*](#copyright-and-ownership-disputes), data privacy [*{Data Privacy Violations [C4]}*](#data-privacy-violations), security [*{Security Vulnerabilities [C4]}*](#security-vulnerabilities)); healthcare organizations need to upgrade their computer systems and infrastructure to provide enough processing power for NLP technology [*{Environmental Sustainability [C1]}*](#environmental-sustainability), while also finding effective ways to make their different software systems and databases communicate and work together properly.  
 
 ---
 
@@ -367,7 +367,7 @@
 > - Unable to Answer Complex Health Questions [*{Outdated or Limited Knowledge [C2]}*](#outdated-or-limited-knowledge)  
 > - Lack of Humanistic Care   
 > - Lack of Interpersonal Interaction [*{Human Autonomy and Skill Devaluation [C1]}*](#human-autonomy-and-skill-devaluation)  
-> - System Frequently Crashes [*{Performance Inconsistency & Drift [C2]}*](#performance-inconsistency-&-drift)  
+> - System Frequently Crashes [*{Performance Inconsistency and Drift [C2]}*](#performance-inconsistency-and-drift)  
 >   
 > Research still fails to pay attention to the interests of some marginalized groups. "For instance, the potential for application of ChatGPT in women's health communication is an important area neglected by existing research. To a certain extent, this reflects the limitation of current research, which runs the risk of reaffirming social discrimination, such as sexism [*{Biases and Discrimination [C1]}*](#biases-and-discrimination), and leading to group polarization, like gender hatred."  
 >   
@@ -383,7 +383,7 @@
 
 > ChatGPT for Teachers:  
 > - An overemphasis on technology might inadvertently impede the development of meaningful student–teacher relationships [*{Human Autonomy and Skill Devaluation [C1]}*](#human-autonomy-and-skill-devaluation)  
-> - The ease of content generation through ChatGPT introduces challenges related to plagiarism and academic integrity. [*{Copyright & Ownership Disputes [C4]}*](#copyright-&-ownership-disputes)  
+> - The ease of content generation through ChatGPT introduces challenges related to plagiarism and academic integrity. [*{Copyright and Ownership Disputes [C4]}*](#copyright-and-ownership-disputes)  
 > - Risk of diluting the authenticity of the professor's teaching methodologies [*{Human Autonomy and Skill Devaluation [C1]}*](#human-autonomy-and-skill-devaluation)  
 > - Might diminish educators’ unique perspectives and hinder the cultivation of critical thinking skills among students [*{Human Autonomy and Skill Devaluation [C1]}*](#human-autonomy-and-skill-devaluation)  
 >   
@@ -391,7 +391,7 @@
 > - might lead to a reduction in learners’ perseverance and resilience [*{Human Autonomy and Skill Devaluation [C1]}*](#human-autonomy-and-skill-devaluation)  
 > - The journey of grappling with challenges and surmounting obstacles may be overshadowed, potentially diminishing the development of resilience and grit [*{Human Autonomy and Skill Devaluation [C1]}*](#human-autonomy-and-skill-devaluation)  
 > - Learners might gravitate toward utilizing AI-generated content to the detriment of independent reasoning and creative thought. Over-reliance may curtail the cultivation of genuine critical thinking skills and impede holistic personal development [*{Human Autonomy and Skill Devaluation [C1]}*](#human-autonomy-and-skill-devaluation)  
-> - The convenience of AI-generated content might inadvertently encourage plagiarism, eroding the foundation of authentic scholarship and undermining the value of original thought [*{Copyright & Ownership Disputes [C4]}*](#copyright-&-ownership-disputes)  
+> - The convenience of AI-generated content might inadvertently encourage plagiarism, eroding the foundation of authentic scholarship and undermining the value of original thought [*{Copyright and Ownership Disputes [C4]}*](#copyright-and-ownership-disputes)  
 
 ---
 
@@ -409,7 +409,7 @@
 
 > - Unreliable source - risk of incorrect / inaccurate information [*{Hallucinations and Factual Inaccuracy [C2]}*](#hallucinations-and-factual-inaccuracy);  
 > - Outdated knowledge (only up to September 2021); [*{Outdated or Limited Knowledge [C2]}*](#outdated-or-limited-knowledge)  
-> - Transparency [*{Model Opacity (Black-Box Nature) [C3]}*](#model-opacity-(black-box-nature)) and copyright concerns [*{Copyright & Ownership Disputes [C4]}*](#copyright-&-ownership-disputes);  
+> - Transparency [*{Model Opacity (Black-Box Nature) [C3]}*](#model-opacity-(black-box-nature)) and copyright concerns [*{Copyright and Ownership Disputes [C4]}*](#copyright-and-ownership-disputes);  
 > - Ethical Issues (e.g. exam cheating, [*{Potential for Misuse and Harmful Content [C1]}*](#potential-for-misuse-and-harmful-content) biased responses [*{Biases and Discrimination [C1]}*](#biases-and-discrimination));  
 > - Fabricated references [*{Hallucinations and Factual Inaccuracy [C2]}*](#hallucinations-and-factual-inaccuracy);  
 > - Decline of critical thinking abilities among the students [*{Human Autonomy and Skill Devaluation [C1]}*](#human-autonomy-and-skill-devaluation);  
@@ -429,7 +429,7 @@
 
 
 > - Data privacy [*{Data Privacy Violations [C4]}*](#data-privacy-violations) and security concerns [*{Security Vulnerabilities [C4]}*](#security-vulnerabilities), including compliance with the Health Insurance Portability and Accountability Act and the General Data Protection Regulation  
-> - Ethical considerations such as transparency [*{Model Opacity (Black-Box Nature) [C3]}*](#model-opacity-(black-box-nature)), accountability [*{Accountability & Liability Ambiguity [C4]}*](#accountability-&-liability-ambiguity) and bias in AI outputs [*{Biases and Discrimination [C1]}*](#biases-and-discrimination)  
+> - Ethical considerations such as transparency [*{Model Opacity (Black-Box Nature) [C3]}*](#model-opacity-(black-box-nature)), accountability [*{Accountability and Liability Ambiguity [C4]}*](#accountability-and-liability-ambiguity) and bias in AI outputs [*{Biases and Discrimination [C1]}*](#biases-and-discrimination)  
 > - Regulatory compliance: challenges for "developing and implementing appropriate regulations, laws, and policies that ensure patient safety and data protection" [*{Regulatory and Legal Gaps [C4]}*](#regulatory-and-legal-gaps)  
 > - Technical and resource barriers to integrating GAI into existing infrastructure and workflows  
 > - Output accuray: risk of “hallucinations” and unreliable outputs [*{Hallucinations and Factual Inaccuracy [C2]}*](#hallucinations-and-factual-inaccuracy)  
@@ -442,7 +442,7 @@
 
 > - Concerns regarding reliability and safety, especially in detecting medical emergencies [*{Hallucinations and Factual Inaccuracy [C2]}*](#hallucinations-and-factual-inaccuracy).  
 > - Risks related to data privacy [*{Data Privacy Violations [C4]}*](#data-privacy-violations), security breaches [*{Security Vulnerabilities [C4]}*](#security-vulnerabilities), and misuse of sensitive health information [*{Potential for Misuse and Harmful Content [C1]}*](#potential-for-misuse-and-harmful-content).  
-> - Ethical concerns about accountability, notably ambiguity over liability in case of AI-generated errors [*{Accountability & Liability Ambiguity [C4]}*](#accountability-&-liability-ambiguity).  
+> - Ethical concerns about accountability, notably ambiguity over liability in case of AI-generated errors [*{Accountability and Liability Ambiguity [C4]}*](#accountability-and-liability-ambiguity).  
 > - Limited exploration of transparency [*{Model Opacity (Black-Box Nature) [C3]}*](#model-opacity-(black-box-nature)), explainability [*{Explainability Shortcomings [C3]}*](#explainability-shortcomings), human agency [*{Human Autonomy and Skill Devaluation [C1]}*](#human-autonomy-and-skill-devaluation), and contestability in existing literature.  
 
 ---

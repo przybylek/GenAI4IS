@@ -17,21 +17,21 @@
 The materials provided here are intended to support the transparency and reproducibility of our work.
 
 ### 📝 Extracted Data
-*   **[Annotated Data Spreadsheet](./data/extracted_data.xlsx)**: The complete extraction matrix containing verbatim quotes, and coding annotations for all included studies.
+*   **[Extracted and Annotated Data Spreadsheet](./extracted_data.xlsx)**: The complete extraction matrix containing verbatim quotes, and coding annotations for all included studies.
 
 ### ✅ Quality Assessment
-*   **[Detailed Quality Assessment Log](./data/quality_assessment.xlsx)**: The raw assessment worksheets including reviewer justifications for the ratings assigned to each criterion and conflict resolutions.
+*   **[Detailed Quality Assessment Log](./quality_assessment.xlsx)**: The raw assessment worksheets including reviewer justifications for the ratings assigned to each criterion and conflict resolutions.
 
-### 📈 Python Analysis Scripts
+### 📈 Analysis Scripts
 *   **[thematic_analysis.py](./code/thematic_analysis.py)**
 *   **[quality_assessment.py](./code/quality_assessment.py)**
   
-### 📋 Codebooks (Thematic Analysis Results)
+### 📋 Thematic Analysis Codebooks
 *   **[Benefits](benefits.md)**
 *   **[Challenges and Limitations](challenges.md)**
 *   **[Research Gaps and Future Research Directions](future_research.md)**
    
-## ✍️ Author Contributions – Writing
+## ✍️ Writing Contributions
 
 | Section | Author(s) |
 | :--- | :--- |
@@ -57,7 +57,7 @@ The materials provided here are intended to support the transparency and reprodu
 | **Threats to Validity** | Adam Przybyłek |
 | **Conclusions** | Viktoria Stray |
 
-## 🏆 Contributions according to CRediT Taxonomy
+## 🏆 CRediT Author Contributions
 
 | Role | Contributor(s) |
 | :--- | :--- |
