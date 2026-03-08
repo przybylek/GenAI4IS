@@ -70,7 +70,7 @@ The materials provided here are intended to support the transparency and reprodu
 | Resources | NA |
 | Data curation | Jacinto Estima, Aleksander Jarzębowicz, Yen Ying Ng, Adam Przybyłek, Jakub Swacha, Beata Zielosko |
 | Writing - Original Draft | see Table 1|
-| Writing - Review & Editing | Aleksander Jarzębowicz, Lech Madeyski, Adam Przybyłek, Alberto Silva, Viktoria Stray |
+| Writing - Review & Editing | Emilio Insfran, Aleksander Jarzębowicz, Lech Madeyski, Adam Przybyłek, Alberto Silva, Viktoria Stray |
 | Visualization | Bartosz Marcinkowski, Beata Zielosko |
 | Supervision | |
 | Project administration | Aleksander Jarzębowicz, Adam Przybyłek |
