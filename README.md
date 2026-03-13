@@ -94,7 +94,7 @@ If you use the materials in this repository or refer to our work, please cite ou
 
 ### APA Format
 
-> Jarzębowicz, A., Przybyłek, A., Estima, J., Ng, Y. Y., Swacha, J., Zielosko, B., Madeyski, L., Carroll, N., Kemell, K.-K., Marcinkowski, B., da Silva, A. R., Stray, V., Iivari, N., Nguyen-Duc, A., Melegati, J., Delibašić, B., & Insfran, E. (2026). *The Landscape of Generative AI in Information Systems: A Synthesis of Secondary Reviews and Research Agendas*. arXiv preprint arXiv:2603.11842. [https://arxiv.org/abs/2603.11842](https://arxiv.org/abs/2603.11842)
+> Jarzębowicz, A., Przybyłek, A., Estima, J., Ng, Y. Y., Swacha, J., Zielosko, B., Madeyski, L., Carroll, N., Kemell, K.-K., Marcinkowski, B., da Silva, A. R., Stray, V., Iivari, N., Nguyen-Duc, A., Melegati, J., Delibašić, B., & Insfran, E. (2026). *The Landscape of Generative AI in Information Systems: A Synthesis of Secondary Reviews and Research Agendas*. [https://arxiv.org/abs/2603.11842](https://arxiv.org/abs/2603.11842)
 
 ### BibTeX
 
