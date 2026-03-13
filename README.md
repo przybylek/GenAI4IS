@@ -1,5 +1,7 @@
 # The Landscape of Generative AI in Information Systems: A Synthesis of Secondary Reviews and Research Agendas
 
+[![arXiv](https://img.shields.io/badge/arXiv-2603.11842-B31B1B.svg?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.11842)
+
 ## 📄 Extended Abstract
 **Context:** The post-ChatGPT surge has rapidly reframed research and practice in Information Systems (IS). As organizations and society grapple with the rapid adoption of GenAI, a body of secondary studies and research agendas has emerged to synthesize early evidence and chart directions for future inquiry.
 
@@ -69,7 +71,7 @@ The materials provided here are intended to support the transparency and reprodu
 | Investigation | Jacinto Estima, Aleksander Jarzębowicz, Yen Ying Ng, Adam Przybyłek, Jakub Swacha, Beata Zielosko |
 | Resources | NA |
 | Data curation | Jacinto Estima, Aleksander Jarzębowicz, Yen Ying Ng, Adam Przybyłek, Jakub Swacha, Beata Zielosko |
-| Writing - Original Draft | see Table 1|
+| Writing - Original Draft | [See Writing Contributions](#%EF%B8%8F-writing-contributions) |
 | Writing - Review & Editing | Emilio Insfran, Aleksander Jarzębowicz, Lech Madeyski, Adam Przybyłek, Alberto Silva, Viktoria Stray |
 | Visualization | Bartosz Marcinkowski, Beata Zielosko |
 | Supervision | |
@@ -88,10 +90,22 @@ This entire repository, including all source code, data, and codebooks, is licen
 
 ## 📖 Citation
 
-Under the terms of this license, you are free to share and adapt the material for any purpose, provided you give appropriate credit.
+If you use the materials in this repository or refer to our work, please cite our paper:
 
-For this project, **"appropriate credit"** means you must cite our academic paper:
+### APA Format
 
-> [Full APA/BibTeX citation of your paper will go here once published]
-> 
+> Jarzębowicz, A., Przybyłek, A., Estima, J., Ng, Y. Y., Swacha, J., Zielosko, B., Madeyski, L., Carroll, N., Kemell, K.-K., Marcinkowski, B., da Silva, A. R., Stray, V., Iivari, N., Nguyen-Duc, A., Melegati, J., Delibašić, B., & Insfran, E. (2026). *The Landscape of Generative AI in Information Systems: A Synthesis of Secondary Reviews and Research Agendas*. arXiv preprint arXiv:2603.11842. [https://arxiv.org/abs/2603.11842](https://arxiv.org/abs/2603.11842)
 
+### BibTeX
+
+```bibtex
+@misc{Jarzebowicz_etal_2026,
+      title={The Landscape of Generative AI in Information Systems: A Synthesis of Secondary Reviews and Research Agendas}, 
+      author={Aleksander Jarzębowicz and Adam Przybyłek and Jacinto Estima and Yen Ying Ng and Jakub Swacha and Beata Zielosko and Lech Madeyski and Noel Carroll and Kai-Kristian Kemell and Bartosz Marcinkowski and Alberto Rodrigues da Silva and Viktoria Stray and Netta Iivari and Anh Nguyen-Duc and Jorge Melegati and Boris Delibašić and Emilio Insfran},
+      year={2026},
+      eprint={2603.11842},
+      archivePrefix={arXiv},
+      primaryClass={cs.CY},
+      url={https://arxiv.org/abs/2603.11842}
+}
+```
