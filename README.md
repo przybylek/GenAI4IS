@@ -1,6 +1,6 @@
 # The Landscape of Generative AI in Information Systems: A Synthesis of Secondary Reviews and Research Agendas
 
-[![arXiv](https://img.shields.io/badge/arXiv-2603.11842-B31B1B.svg?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.11842)
+[![EISEJ](https://img.shields.io/badge/Published_in_EISEJ-Open_Access-blue.svg?style=flat)](https://www.e-informatyka.pl/EISEJ/papers/2027/1/1/)
 
 ## 📄 Extended Abstract
 **Context:** The post-ChatGPT surge has rapidly reframed research and practice in Information Systems (IS). As organizations and society grapple with the rapid adoption of GenAI, a body of secondary studies and research agendas has emerged to synthesize early evidence and chart directions for future inquiry.
@@ -94,18 +94,22 @@ If you use the materials in this repository or refer to our work, please cite ou
 
 ### APA Format
 
-> Jarzębowicz, A., Przybyłek, A., Estima, J., Ng, Y. Y., Swacha, J., Zielosko, B., Madeyski, L., Carroll, N., Kemell, K.-K., Marcinkowski, B., da Silva, A. R., Stray, V., Iivari, N., Nguyen-Duc, A., Melegati, J., Delibašić, B., & Insfran, E. (2026). *The Landscape of Generative AI in Information Systems: A Synthesis of Secondary Reviews and Research Agendas*. [https://arxiv.org/abs/2603.11842](https://arxiv.org/abs/2603.11842)
+> Jarzębowicz, A., Przybyłek, A., Estima, J., Ng, Y. Y., Swacha, J., Zielosko, B., Madeyski, L., Carroll, N., Kemell, K.-K., Marcinkowski, B., da Silva, A. R., Stray, V., Iivari, N., Nguyen-Duc, A., Melegati, J., Delibašić, B., & Insfran, E. (2027). *The Landscape of Generative AI in Information Systems: A Synthesis of Secondary Reviews and Research Agendas*. In: e-Informatica Software Engineering Journal, vol. 21, no. 1, pp. 270101. DOI: [10.37190/e-Inf270101](https://www.e-informatyka.pl/EISEJ/papers/2027/1/1/)
 
 ### BibTeX
 
 ```bibtex
 @misc{Jarzebowicz_etal_2026,
-      title={The Landscape of Generative AI in Information Systems: A Synthesis of Secondary Reviews and Research Agendas}, 
-      author={Aleksander Jarzębowicz and Adam Przybyłek and Jacinto Estima and Yen Ying Ng and Jakub Swacha and Beata Zielosko and Lech Madeyski and Noel Carroll and Kai-Kristian Kemell and Bartosz Marcinkowski and Alberto Rodrigues da Silva and Viktoria Stray and Netta Iivari and Anh Nguyen-Duc and Jorge Melegati and Boris Delibašić and Emilio Insfran},
-      year={2026},
-      eprint={2603.11842},
-      archivePrefix={arXiv},
-      primaryClass={cs.CY},
-      url={https://arxiv.org/abs/2603.11842}
+  title		= {The Landscape of Generative AI in Information Systems: A Synthesis of Secondary Reviews and Research Agendas},
+  author	= {Aleksander Jarzębowicz and Adam Przybyłek and Jacinto Estima and Yen Ying Ng and Jakub Swacha and Beata Zielosko and Lech Madeyski and Noel Carroll and Kai-Kristian Kemell and Bartosz Marcinkowski and Alberto Rodrigues da Silva and Viktoria Stray and Netta Iivari and Anh Nguyen-Duc and Jorge Melegati and Boris Delibašić and Emilio Insfran},
+  doi		= {10.37190/e-Inf270101},
+  year		= {2027},
+  volume	= {21},
+  number	= {1},
+  keywords	= {Generative AI (GenAI), Large Language Models (LLM), ChatGPT, Information Systems, Systematic Literature Review, Research Agenda, Roadmap, AI Ethics, AI Governance, Socio-Technical Systems},
+  journal	= {e-Informatica Software Engineering Journal},
+  url		= {https://www.e-informatyka.pl/EISEJ/papers/2027/1/1/},
+  note		= {Available online: 24 Aug 2026},
+  pages		= {270101}
 }
 ```
